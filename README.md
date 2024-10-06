@@ -1,2 +1,3 @@
 # Candidate-Search
 A candidate search application that calls the GitHub API and renders data in the browser
+VITE_GITHUB_TOKEN=ACC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
