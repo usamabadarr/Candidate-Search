@@ -1,4 +1,3 @@
-import React from 'react';
 
 const Home = () => {
   console.log('Home component rendered');
